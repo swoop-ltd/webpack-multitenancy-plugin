@@ -35,7 +35,7 @@ module.exports = {
 ```
 
 By default this will look in the `./themes/test-theme/` directory to find modules that should be replaced in `./src/`.
-For example `./themes/test-them/views/Home.vue` will replace `./themes/src/views/Home.vue`.
+For example `./themes/test-theme/views/Home.vue` will replace `./themes/src/views/Home.vue`.
 
 ## Vue extend and include components
 
